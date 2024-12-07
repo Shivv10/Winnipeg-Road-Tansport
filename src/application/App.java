@@ -36,7 +36,7 @@ public class App {
             cont = cmd != null && !cmd.equalsIgnoreCase("e");
         }
 
-        System.out.println("\nExiting Store Management interface. Have a great day!\n");
+        System.out.println("\nExiting Winnipeg Road Transport Database. Have a great day!\n");
         consoleIn.close();
 
     }
